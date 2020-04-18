@@ -1,9 +1,9 @@
 # Dacon_Behavioral_Data_Analysis
 ## 결과 : AUC=0.754 (리더보드 6위)
 ## 활용된 주요 방법론 :
-* (1) 정규표현식 & CounterVectorizer
-* (2) Permutation Importance & Feature Importance
-* (3) Optuna AutoML with Pruning
+* (1) 정규표현식 & CounterVectorizer (for Feature Generation)
+* (2) Permutation Importance & Feature Importance (for Feature Selection)
+* (3) Optuna AutoML with Pruning (for Modeling)
 
 
 ## Data Description
