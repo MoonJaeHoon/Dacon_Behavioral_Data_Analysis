@@ -1,5 +1,5 @@
 # Dacon_Behavioral_Data_Analysis
-## 결과 : AUC=0.754 (리더보드 6위 수준)
+## 결과 : AUC=0.754 (리더보드 6위)
 * 데이터 다운로드 출처 : https://newfront.dacon.io/competitions/official/235583/data/
 * 데이터 다운로드 출처 : https://github.com/Blizzard/s2client-proto#downloads
 
