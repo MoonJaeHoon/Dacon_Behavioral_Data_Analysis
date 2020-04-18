@@ -55,9 +55,9 @@
 ## Data Processing Plan
 ##### 데이터 특성상 winner (반응변수 0 or 1)를 예측하기 위해 독립변수(X)들을 직접 생성해내야 한다.
 
-##### 따라서, Part를 나눠 Ch0 ~ Ch4 까지 Data PreProcessing 및 Features 생성을 하도록 하고,
+##### 따라서, Part를 나눠 Ch0 ~ Ch4 : "Data PreProcessing 및 Features 생성"을 하도록 하고,
 
-##### Ch5에서 Feature Selection과 Prediction Modeling 순서로 진행하려 한다.
+##### Ch5 : "Feature Selection과 Prediction Modeling" 순서로 진행하려 한다.
 
 ### 0. 데이터의 용량을 줄이기
 * Train : 67091776 rows, 7 columns, 약 3.5GB 메모리 차지하는 데이터
