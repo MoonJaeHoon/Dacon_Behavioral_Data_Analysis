@@ -1,10 +1,11 @@
 # Dacon_Behavioral_Data_Analysis
 ## 결과 : AUC=0.754 (리더보드 6위)
-* 데이터 다운로드 출처 : https://newfront.dacon.io/competitions/official/235583/data/
-* 데이터 다운로드 출처 : https://github.com/Blizzard/s2client-proto#downloads
+## 활용된 주요 방법론 : (1) 정규표현식 & CounterVectorizer, (2) Permutation Importance & Feature Importance, (3) Optuna AutoML with Pruning
 
 
 ## Data Description
+* 데이터 다운로드 출처 : https://newfront.dacon.io/competitions/official/235583/data/
+* 데이터 다운로드 출처 : https://github.com/Blizzard/s2client-proto#downloads
 * 대회에서 제공하는 데이터는 게임 플레이어의 행동 정보를 담고 있습니다. 이 데이터를 사용하여 게임에서 승리하는 선수를 예측합니다. 데이터는 5만여 개의 경기 리플레이 데이터로 이루어져 있으며, 각 리플레이 데이터는 총 경기 시간의 일부에 대한 인게임 정보를 포함합니다. 
 
 ### train.csv / test.csv
