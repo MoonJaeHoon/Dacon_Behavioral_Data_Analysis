@@ -59,7 +59,7 @@
 * winner : player 1의 승리 확률
 
 ## Data Processing Plan
-##### 데이터 특성상 winner (반응변수 0 or 1)를 예측하기 위해 독립변수(X)들을 직접 생성해내야 한다.
+##### 데이터를 관찰하고 winner (반응변수 0 or 1)를 예측하기 위해 독립변수(X)들을 직접 생성해내야 한다. (주어진 독립변수들이 없음)
 
 ##### 따라서, Part를 나눠 Ch0 ~ Ch4 : "Data PreProcessing 및 Features 생성"을 하도록 하고,
 
