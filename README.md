@@ -1,7 +1,5 @@
 # Dacon_Behavioral_Data_Analysis
 ## 결과 : AUC=0.754 (리더보드 6위)
-* Dacon 프로필 : https://dacon.io/myprofile/226309/overview/
-
 
 ## 활용된 주요 방법론 :
 * (1) 정규표현식 & CounterVectorizer (for Feature Generation)
