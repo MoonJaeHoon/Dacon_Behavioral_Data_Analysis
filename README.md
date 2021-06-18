@@ -2,9 +2,11 @@
 ## 결과 : AUC=0.754 (리더보드 6위)
 
 ## 활용된 주요 방법론 :
-* (1) 정규표현식 & CounterVectorizer (for Feature Generation)
-* (2) Permutation Importance & Feature Importance (for Feature Selection)
-* (3) Optuna AutoML with Pruning (for Modeling)
+* (0) 도메인 기반 변수의 의미를 고려한 Feature Engineering
+* (1) Slicing by Window-2-time for log data
+* (2) 정규표현식 & CounterVectorizer (for Feature Generation)
+* (3) Permutation Importance & Feature Importance (for Feature Selection)
+* (4) Optuna AutoML with Pruning (for Modeling)
 
 
 ## Data Description
