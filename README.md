@@ -1,6 +1,10 @@
 # Dacon_Behavioral_Data_Analysis
 ## 결과 : AUC=0.754 (리더보드 6위)
 
+## Summary
+![image](https://user-images.githubusercontent.com/54096561/125309718-eef5ee80-e36c-11eb-9c85-5ae437531cbe.png)
+
+
 ## 활용된 주요 방법론 :
 * (0) 도메인 기반 변수의 의미를 고려한 Feature Engineering
 * (1) Slicing by Window-2-time for log data
