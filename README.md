@@ -2,7 +2,7 @@
 ## 결과 : AUC=0.754 (리더보드 6위)
 
 ## Summary
-![image](https://user-images.githubusercontent.com/54096561/125309718-eef5ee80-e36c-11eb-9c85-5ae437531cbe.png)
+![image](https://user-images.githubusercontent.com/54096561/125313032-ce7b6380-e36f-11eb-9fa8-3529097a2b74.png)
 
 
 ## 활용된 주요 방법론 :
